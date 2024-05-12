@@ -9,7 +9,7 @@
 
  ## Sobre mim
 - 🗺️| **Itabuna, BA - Brasil:**
-- 🖥️| **Estudante de Ciência da Computação (1º Semestre)**;
+- 🖥️| **Estudante de Ciência da Computação (UESC)**;
 - 💾| **Aluno Curso em Vídeo;**
 - 📖| **Estudando Desenvolvimento Desktop e Jogos;**
 - 🎯| **Objetivo de chegar o FullStack;**
