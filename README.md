@@ -2,10 +2,11 @@
 <div align="center">
   
 <a href="https://github.com/ythmxz">
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=github&show_icons=true&custom_title=Estatísticas&theme=monokai&bg_color=00000000&hide_border=true&number_format=short&count_private=true" alt="Minhas Estatísticas"/>
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=github&show_icons=true&custom_title=Estatísticas&theme=github_dark&hide_border=true&number_format=short&count_private=true" alt="Minhas Estatísticas"/>
 </a>
+
 <a href="https://github.com/ythmxz">
-  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythmxz&layout=compact&langs_count=6&hide=cmake&custom_title=Linguagens&theme=monokai&bg_color=00000000&hide_border=true" alt="Linguagens Usadas"/>
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythmxz&layout=compact&langs_count=6&hide=cmake&custom_title=Linguagens&theme=github_dark&hide_border=true" alt="Linguagens Usadas"/>
 </a>
 
 </div>
@@ -27,7 +28,7 @@
 
 #### Editores / IDEs:
 
-<img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> <img align="center" alt="CLion" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg"> <img align="center" alt="PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+<img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> | <img align="center" alt="CLion" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg"> <img align="center" alt="PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
 
 #### VCS / Repos:
 
