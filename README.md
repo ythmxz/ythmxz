@@ -12,7 +12,7 @@
 - 🖥️| **Estudante de Ciência da Computação (UESC)**;
 - 💾| **Aluno Curso em Vídeo;**
 - 📖| **Estudando Desenvolvimento Desktop e Jogos;**
-- 🎯| **Objetivo de chegar o FullStack;**
+- 🎯| **Objetivo de chegar ao FullStack;**
 - 📌| **Preparado para participar de comunidades e projetos legais!**
 
 ## Conhecimentos
