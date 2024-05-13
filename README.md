@@ -37,6 +37,5 @@
 
 <a href="https://linkedin.com/in/ythmxz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://instagram.com/ythmxz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href = "mailto:ytcarvalho14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-critical?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 _Template by https://github.com/coelhoalexandre/_
