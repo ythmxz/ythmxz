@@ -34,6 +34,11 @@
   <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythmxz&layout=compact&langs_count=6&hide=cmake&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true" />
 </picture>
 
+<a href="https://open.spotify.com/user/31uhfc6wcof7lysi5ozge32mmxnq?si=ba8375aa68874071">
+  <img align="center" height=160 src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31uhfc6wcof7lysi5ozge32mmxnq&hide_title=true&hide_recents=true&hide_top_tracks=true&hide_top_artists=true&limit=3" alt="Meu Spotify">
+
+</a>
+
 </div>
 
 ## Sobre mim
