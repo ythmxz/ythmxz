@@ -1,14 +1,30 @@
 ## Bem-vindo ao meu perfil!
 
 <div align="center">
-  
-<a href="https://github.com/ythmxz">
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=github&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&number_format=short&count_private=true&theme=github_dark" alt="Minhas Estatísticas"/>
-</a>
 
-<a href="https://github.com/ythmxz">
-  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythmxz&layout=compact&langs_count=6&hide=cmake&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true&theme=github_dark" alt="Linguagens Utilizadas"/>
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=github&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&number_format=short&count_private=true&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=github&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&number_format=short&count_private=true&theme=github_light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=github&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&number_format=short&count_private=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ythmxz&layout=compact&langs_count=6&hide=cmake&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ythmxz&layout=compact&langs_count=6&hide=cmake&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true&theme=github_light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythmxz&layout=compact&langs_count=6&hide=cmake&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true" />
+</picture>
 
 </div>
 
