@@ -67,8 +67,8 @@
 
 <div align="center"> 
 
-<a href="https://linkedin.com/in/ythmxz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://instagram.com/ythmxz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://linkedin.com/in/ythmxz/" target="_blank"><img height=25 width=100 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://instagram.com/ythmxz/" target="_blank"><img height=25 width=100 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 _Template by [Alexandre Coelho](https://github.com/coelhoalexandre/)_
 
