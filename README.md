@@ -3,11 +3,11 @@
 <div align="center">
   
 <a href="https://github.com/ythmxz">
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=github&show_icons=true&custom_title=Estatísticas&theme=github_dark&hide_border=true&number_format=short&count_private=true" alt="Minhas Estatísticas"/>
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=github&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&number_format=short&count_private=true&theme=github_dark" alt="Minhas Estatísticas"/>
 </a>
 
 <a href="https://github.com/ythmxz">
-  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythmxz&layout=compact&langs_count=6&hide=cmake&custom_title=Linguagens&theme=github_dark&hide_border=true" alt="Linguagens Usadas"/>
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythmxz&layout=compact&langs_count=6&hide=cmake&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true&theme=github_dark" alt="Linguagens Utilizadas"/>
 </a>
 
 </div>
@@ -25,7 +25,7 @@
 
 #### OS:
 
-<img align="center" alt="Windows 11" height="30" width="30" title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"> <img align="center" alt="Ubuntu" height="30" width="30" title="Ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
+<img align="center" alt="Windows" height="30" width="30" title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"> <img align="center" alt="Ubuntu" height="30" width="30" title="Ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
 
 #### Editores / IDEs:
 
