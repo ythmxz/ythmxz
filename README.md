@@ -25,19 +25,19 @@
 
 #### OS:
 
-<img align="center" alt="Windows 11" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"> <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
+<img align="center" alt="Windows 11" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"> <img align="center" alt="Ubuntu" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
 
 #### Editores / IDEs:
 
-<img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> | <img align="center" alt="CLion" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg"> <img align="center" alt="PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+<img align="center" alt="VS Code" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> | <img align="center" alt="Replit" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/replit/replit-original.svg"> <img align="center" alt="CLion" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg"> <img align="center" alt="PyCharm" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
 
 #### VCS / Repos:
 
-<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> | <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img align="center" alt="Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> | <img align="center" alt="github" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
 #### Linguagens:
 
-<img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> (<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="GDScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">)*
+(<img align="center" alt="C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="GDScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"> <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">)*
 
 <sub>_*Aprendendo_</sub>
 
