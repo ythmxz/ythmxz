@@ -54,11 +54,11 @@
 
 #### OS:
 
-<a href="https://www.microsoft.com/windows"><img align="center" alt="Windows" height="30" width="30" title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"></a> <a href="https://ubuntu.com/"><img align="center" alt="Ubuntu" height="30" width="30" title="Ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"></a>
+<a href="https://www.microsoft.com/windows"><img align="center" alt="Windows" height="30" width="30" title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"></a> <a href="https://fedoraproject.org/"><img align="center" alt="Fedora" height="30" width="30" title="Fedora" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg"></a>
 
 #### Editores / IDEs:
 
-<a href="https://code.visualstudio.com/"><img align="center" alt="VS Code" height="30" width="30" title="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a> | <a href="https://replit.com/"><img align="center" alt="Replit" height="30" width="30" title="Replit" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/replit/replit-original.svg"></a> <a href="https://www.jetbrains.com/clion/"><img align="center" alt="CLion" height="30" width="30" title="CLion" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg"></a> <a href="https://www.jetbrains.com/pycharm/"><img align="center" alt="PyCharm" height="30" width="30" title="PyCharm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"></a>
+<a href="https://code.visualstudio.com/"><img align="center" alt="VS Code" height="30" width="30" title="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a> | <a href="https://www.jetbrains.com/clion/"><img align="center" alt="CLion" height="30" width="30" title="CLion" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg"></a> <a href="https://www.jetbrains.com/pycharm/"><img align="center" alt="PyCharm" height="30" width="30" title="PyCharm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"></a>
 
 #### VCS / Repos:
 
@@ -66,9 +66,7 @@
 
 #### Linguagens:
 
-(<a href="https://wikipedia.org/wiki/C_(programming_language)"><img align="center" alt="C" height="30" width="30" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a> <a href="https://www.python.org/"><img align="center" alt="Python" height="30" width="30" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a> <a href="https://godotengine.org/"><img align="center" alt="GDScript" height="30" width="30" title="Godot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"></a> <a href="https://wikipedia.org/wiki/CSS"><img align="center" alt="CSS" height="30" width="30" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>)*
-
-<sub>_*Aprendendo_</sub>
+<a href="https://wikipedia.org/wiki/C_(programming_language)"><img align="center" alt="C" height="30" width="30" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a> <a href="https://www.python.org/"><img align="center" alt="Python" height="30" width="30" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a> <a href="https://godotengine.org/"><img align="center" alt="GDScript" height="30" width="30" title="Godot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"></a>
 
 <div align="center"> 
 
