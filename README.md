@@ -62,7 +62,7 @@
 
 #### VCS / Repos:
 
-<a href="https://git-scm.com/"><img align="center" alt="Git" height="30" width="30" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a> | <img align="center" alt="github" height="30" width="30" title="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg#gh-light-mode-only"> <img align="center" alt="github" height="35" width="35" title="GitHub" src="https://raw.githubusercontent.com/ythmxz/github-white-logo/main/icons8-github.svg#gh-dark-mode-only">
+<a href="https://git-scm.com/"><img align="center" alt="Git" height="30" width="30" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a> | <img align="center" alt="github" height="30" width="30" title="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg#gh-light-mode-only"> <img align="center" alt="github" height="35" width="35" title="GitHub" src="https://raw.githubusercontent.com/ythmxz/ythmxz/main/github-light-icon.svg#gh-dark-mode-only">
 
 #### Linguagens:
 
