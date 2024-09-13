@@ -54,11 +54,11 @@
 
 #### OS:
 
-<a href="https://www.microsoft.com/windows"><img align="center" alt="Windows" height="30" width="30" title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"></a> <a href="https://fedoraproject.org/"><img align="center" alt="Fedora" height="30" width="30" title="Fedora" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg"></a>
+<a href="https://www.microsoft.com/windows"><img align="center" alt="Windows" height="30" width="30" title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"></a>
 
-#### Editores / IDEs:
+#### Editores:
 
-<a href="https://code.visualstudio.com/"><img align="center" alt="VS Code" height="30" width="30" title="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a> | <a href="https://www.jetbrains.com/clion/"><img align="center" alt="CLion" height="30" width="30" title="CLion" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg"></a> <a href="https://www.jetbrains.com/pycharm/"><img align="center" alt="PyCharm" height="30" width="30" title="PyCharm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"></a>
+<a href="https://code.visualstudio.com/"><img align="center" alt="VS Code" height="30" width="30" title="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
 
 #### VCS / Repos:
 
