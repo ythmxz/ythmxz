@@ -66,7 +66,7 @@
 
 #### Linguagens:
 
-<a href="https://wikipedia.org/wiki/C_(programming_language)"><img align="center" alt="C" height="30" width="30" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a> <a href="https://www.python.org/"><img align="center" alt="Python" height="30" width="30" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a> <a href="https://godotengine.org/"><img align="center" alt="GDScript" height="30" width="30" title="Godot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"></a>
+<a href="https://wikipedia.org/wiki/C_(programming_language)"><img align="center" alt="C" height="30" width="30" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a> <a href="https://www.java.com/"><img align="center" alt="Java" height="30" width="30" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg"></a> <a href="https://godotengine.org/"><img align="center" alt="GDScript" height="30" width="30" title="Godot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"></a>
 
 <div align="center"> 
 
