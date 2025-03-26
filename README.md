@@ -4,18 +4,18 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=default&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&number_format=short&count_private=true&theme=github_dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=default&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&number_format=long&count_private=true&theme=github_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=github&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&number_format=short&count_private=true&theme=github_light"
+    srcset="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=default&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&number_format=long&count_private=true&theme=github_light"
     media="(prefers-color-scheme: light)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=github&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&number_format=short&count_private=true&theme=transparent"
+    srcset="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=default&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&number_format=long&count_private=true&theme=transparent"
     media="(prefers-color-scheme: no-preference)"
   />
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=github&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&number_format=short&count_private=true" />
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=default&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&number_format=long&count_private=true" />
 </picture>
 
 <picture>
