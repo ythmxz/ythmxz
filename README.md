@@ -4,7 +4,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=percentile&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&number_format=short&count_private=true&theme=github_dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=default&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&number_format=short&count_private=true&theme=github_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
