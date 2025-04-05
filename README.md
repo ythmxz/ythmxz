@@ -1,7 +1,6 @@
 ## Bem-vindo ao meu perfil!
 
 <div align="center">
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&rank_icon=default&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&number_format=long&count_private=true&theme=github_dark"
@@ -36,9 +35,7 @@
 
 <a href="https://open.spotify.com/user/31uhfc6wcof7lysi5ozge32mmxnq?si=ba8375aa68874071">
   <img align="center" height=160 src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31uhfc6wcof7lysi5ozge32mmxnq&hide_title=true&hide_recents=true&hide_top_tracks=true&hide_top_artists=true&limit=3" alt="Meu Spotify">
-
 </a>
-
 </div>
 
 ## Sobre mim
@@ -47,7 +44,6 @@
 - 🖥️| **Estudante de Ciência da Computação (UESC)**;
 - 💾| **Aluno Curso em Vídeo;**
 - 📖| **Estudando Desenvolvimento Desktop e Jogos;**
-- 🎯| **Objetivo de chegar ao FullStack;**
 - 📌| **Preparado para participar de comunidades e projetos legais!**
 
 ## Conhecimentos
