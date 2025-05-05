@@ -32,7 +32,9 @@
   />
   <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythmxz&layout=compact&langs_count=6&hide=cmake&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true" />
 </picture>
+</div>
 
+<div align="center">
 <a href="https://open.spotify.com/user/31uhfc6wcof7lysi5ozge32mmxnq?si=ba8375aa68874071">
   <img align="center" height=160 src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31uhfc6wcof7lysi5ozge32mmxnq&hide_title=true&hide_recents=true&hide_top_tracks=true&hide_top_artists=true&limit=3" alt="Meu Spotify">
 </a>
@@ -63,13 +65,7 @@
 #### Linguagens:
 
 ###### Back-end:
-<a href="https://dotnet.microsoft.com/pt-br/languages/csharp"><img align="center" alt="C#" height="30" width="30" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg"></a> <a href="https://www.java.com/"><img align="center" alt="Java" height="30" width="30" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg"></a> <a href="https://www.python.org/"><img align="center" alt="Python" height="30" width="30" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg"></a>
-
-###### Front-end:
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt="HTML5" height="30" width="30" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg"></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="CSS3" height="30" width="30" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg"></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="30" width="30" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg"></a>
-
-###### Framework:
-<a href="https://react.dev/"><img align="center" alt="React" height="30" width="30" title="React" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg"></a>
+<a href="https://www.java.com/"><img align="center" alt="Java" height="30" width="30" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg"></a> <a href="https://www.python.org/"><img align="center" alt="Python" height="30" width="30" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg"></a>
 
 ###### Game engine:
 <a href="https://godotengine.org/"><img align="center" alt="GDScript" height="30" width="30" title="Godot" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original.svg"></a>
