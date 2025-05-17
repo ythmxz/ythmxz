@@ -40,30 +40,19 @@
   </picture>
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31uhfc6wcof7lysi5ozge32mmxnq?si=ba8375aa68874071">
-    <img
-      align="center" height=160
-      src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31uhfc6wcof7lysi5ozge32mmxnq&hide_title=true&hide_recents=true&hide_top_tracks=true&hide_top_artists=true"
-      alt="Meu Spotify"
-    />
-  </a>
-</div>
-
 ## Sobre mim
 
 - 🗺️| **Itabuna, BA - Brasil;**
 - 🖥️| **Estudante de Ciência da Computação (UESC)**;
 - 💾| **Aluno Curso em Vídeo;**
 - 📖| **Estudando Desenvolvimento Desktop e Jogos;**
-- 📌| **Preparado para participar de comunidades e projetos legais!**
 
 ## Conhecimentos
 
 #### OS:
 
-<a href="https://www.microsoft.com/windows">
-  <img align="center" alt="Windows" height="30" width="30" title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
+<a href="https://www.microsoft.com/windows/windows-11">
+  <img align="center" alt="Windows 11" height="30" width="30" title="Windows 11" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
 </a>
 
 #### Editores:
@@ -100,10 +89,6 @@
     align="center" alt="Java" height="30" width="30" title="Java"
     src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg"
   /></a>
-<a href="https://www.python.org/"><img
-    align="center" alt="Python" height="30" width="30" title="Python"
-    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg"
-    /></a>
 
 ###### Game engine:
 <a href="https://godotengine.org/">
@@ -116,12 +101,16 @@
 <div align="center"> 
 
 <a href="https://linkedin.com/in/ythmxz/" target="_blank"><img
-    height=25 width=100
-    src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
+    height=25 width=80
+    src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn"
+  /></a>
+  <a href="https://ythmxz.itch.io/" target="_blank"><img
+    height=25 width=80
+    src="https://img.shields.io/badge/Itch.io-indianred?style=for-the-badge" alt="Itch.io"
   /></a>
 <a href="https://instagram.com/ythmxz/" target="_blank"><img
-    height=25 width=100
-    src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"
+    height=25 width=80
+    src="https://img.shields.io/badge/Instagram-hotpink?style=for-the-badge" alt="Instagram"
   /></a>
 
 _Template by [Alexandre Coelho](https://github.com/coelhoalexandre/)_
