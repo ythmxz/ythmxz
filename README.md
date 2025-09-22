@@ -99,21 +99,10 @@
 </a>
 
 ##
-<div align="center"> 
-
-<a href="https://linkedin.com/in/ythmxz/" target="_blank"><img
-    height=25 width=80
-    src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn"
-  /></a>
-  <a href="https://ythmxz.itch.io/" target="_blank"><img
-    height=25 width=80
-    src="https://img.shields.io/badge/Itch.io-indianred?style=for-the-badge" alt="Itch.io"
-  /></a>
-<a href="https://instagram.com/ythmxz/" target="_blank"><img
-    height=25 width=80
-    src="https://img.shields.io/badge/Instagram-hotpink?style=for-the-badge" alt="Instagram"
-  /></a>
-
+<div align="center">
+  
 _Template by [Alexandre Coelho](https://github.com/coelhoalexandre/)_
 
 _GitHub Light Icon by [Icons8](https://icons8.com)_
+
+</div>
