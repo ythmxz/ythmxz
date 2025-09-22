@@ -55,10 +55,14 @@
   <img align="center" alt="Windows 11" height="30" width="30" title="Windows 11" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
 </a>
 
-#### Editores:
+#### Editores / IDEs:
 
-<a href="https://code.visualstudio.com/">
-  <img align="center" alt="VS Code" height="30" width="30" title="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+<a href="https://code.visualstudio.com/"><img
+    align="center" alt="VS Code" height="30" width="30" title="VS Code"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+  /></a> |
+<a href="https://jetbrains.com/idea">
+  <img align="center" alt="JetBrains IDEs" height="30" width="30" title="JetBrains IDEs" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jetbrains/jetbrains-original.svg">
 </a>
 
 #### VCS / Repositórios:
@@ -66,7 +70,7 @@
 <a href="https://git-scm.com/"><img
     align="center" alt="Git" height="30" width="30" title="Git"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-  /></a>
+  /></a> |
 <a href="https//github.com/">
   <picture>
     <source
@@ -97,12 +101,3 @@
     src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original.svg"
   />
 </a>
-
-##
-<div align="center">
-  
-_Template by [Alexandre Coelho](https://github.com/coelhoalexandre/)_
-
-_GitHub Light Icon by [Icons8](https://icons8.com)_
-
-</div>
