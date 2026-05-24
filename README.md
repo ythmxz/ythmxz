@@ -54,20 +54,20 @@
 <a href="https://www.microsoft.com/windows/windows-11"><img
   align="center" alt="Windows 11" height="30" width="30" title="Windows 11"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"
-    /></a> |
+    /></a>
 <a href="https://www.microsoft.com/windows/windows-11"><img
   align="center" alt="Ubuntu 26.04 LTS" height="30" width="30" title="Ubuntu 26.04 LTS"
   src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original.svg"
 /></a>
 
-#### Editores / IDEs:
+#### Editores | IDEs:
 
 <a href="https://code.visualstudio.com/"><img
   align="center" alt="VS Code" height="30" width="30" title="VS Code"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
 /></a>
 
-#### VCS / Repositórios:
+#### VCS | Repositórios:
 
 <a href="https://git-scm.com/"><img
     align="center" alt="Git" height="30" width="30" title="Git"
@@ -94,6 +94,10 @@
 <a href="https://www.java.com/"><img
     align="center" alt="Java" height="30" width="30" title="Java"
     src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg"
+  /></a>
+<a href="https://www.python.org/"><img
+    align="center" alt="Python" height="30" width="30" title="Python"
+    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg"
   /></a>
 
 ###### Game engine:
