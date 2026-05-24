@@ -3,39 +3,39 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&count_private=true&theme=github_dark"
+      srcset="https://github-readme-stats-ythmxz.vercel.app/api?username=ythmxz&locale=pt-br&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&count_private=true&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&count_private=true&theme=github_light"
+      srcset="https://github-readme-stats-ythmxz.vercel.app/api?username=ythmxz&locale=pt-br&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&count_private=true&theme=github_light"
       media="(prefers-color-scheme: light)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&count_private=true&theme=transparent"
+      srcset="https://github-readme-stats-ythmxz.vercel.app/api?username=ythmxz&locale=pt-br&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&count_private=true&theme=transparent"
       media="(prefers-color-scheme: no-preference)"
     />
     <img
       width=380 height=160
-      src="https://github-readme-stats.vercel.app/api?username=ythmxz&locale=pt-br&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&count_private=true"
+      src="https://github-readme-stats-ythmxz.vercel.app/api?username=ythmxz&locale=pt-br&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&count_private=true"
     />
   </picture>
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ythmxz&layout=compact&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true&theme=github_dark"
+      srcset="https://github-readme-stats-ythmxz.vercel.app/api/top-langs/?username=ythmxz&layout=compact&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ythmxz&layout=compact&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true&theme=github_light"
+      srcset="https://github-readme-stats-ythmxz.vercel.app/api/top-langs/?username=ythmxz&layout=compact&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true&theme=github_light"
       media="(prefers-color-scheme: light)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ythmxz&layout=compact&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true&theme=transparent"
+      srcset="https://github-readme-stats-ythmxz.vercel.app/api/top-langs/?username=ythmxz&layout=compact&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true&theme=transparent"
       media="(prefers-color-scheme: no-preference)"
     />
     <img
       width=380 height=160
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ythmxz&layout=compact&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true"
+      src="https://github-readme-stats-ythmxz.vercel.app/api/top-langs/?username=ythmxz&layout=compact&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true"
     />
   </picture>
 </div>
