@@ -40,10 +40,9 @@
   </picture>
 </div>
 
-## Sobre mim
+## Sobre
 
-- 🗺️| **Itabuna, BA - Brasil;**
-- 🖥️| **Estudante de Ciência da Computação (UESC)**;
+- 🖥️| **Bacharelando em Ciência da Computação (UESC)**;
 - 💾| **Aluno Curso em Vídeo;**
 - 📖| **Estudando Desenvolvimento Desktop e Jogos;**
 
@@ -55,9 +54,9 @@
   align="center" alt="Windows 11" height="30" width="30" title="Windows 11"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"
     /></a>
-<a href="https://www.microsoft.com/windows/windows-11"><img
-  align="center" alt="Ubuntu 26.04 LTS" height="30" width="30" title="Ubuntu 26.04 LTS"
-  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original.svg"
+<a href="https://fedoraproject.org/"><img
+  align="center" alt="Fedora 44" height="30" width="30" title="Fedora 44"
+  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fedora/fedora-original.svg"
 /></a>
 
 #### Editores | IDEs:
@@ -66,6 +65,20 @@
   align="center" alt="VS Code" height="30" width="30" title="VS Code"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
 /></a>
+<a href="https//zed.dev/">
+  <picture>
+    <source
+      srcset="https://raw.githubusercontent.com/ythmxz/ythxmz/main/zed-dark-icon.svg#gh-light-mode-only"
+      media="(prefers-color-scheme: light)"
+    />
+    <source
+      srcset="https://raw.githubusercontent.com/ythmxz/ythmxz/main/zed-light-icon.svg#gh-dark-mode-only"
+      media="(prefers-color-scheme: dark)"
+    /><img
+      align="center" alt="Zed" height="30" width="30" title="Zed"
+      src="https://raw.githubusercontent.com/ythmxz/ythmxz/main/zed-light-icon.svg#gh-dark-mode-only"
+    /></picture>
+</a> 
 
 #### VCS | Repositórios:
 
@@ -83,7 +96,7 @@
       srcset="https://raw.githubusercontent.com/ythmxz/ythmxz/main/github-light-icon.svg#gh-dark-mode-only"
       media="(prefers-color-scheme: dark)"
     /><img
-      align="center" alt="github" height="30" width="30" title="GitHub"
+      align="center" alt="GitHub" height="30" width="30" title="GitHub"
       src="https://raw.githubusercontent.com/ythmxz/ythmxz/main/github-light-icon.svg#gh-dark-mode-only"
     /></picture>
 </a> 
@@ -91,6 +104,10 @@
 #### Linguagens:
 
 ###### Back-end:
+<a href="https://www.c-language.org/"><img
+    align="center" alt="C" height="30" width="30" title="C"
+    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg"
+  /></a>
 <a href="https://www.java.com/"><img
     align="center" alt="Java" height="30" width="30" title="Java"
     src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg"
@@ -103,7 +120,7 @@
 ###### Game engine:
 <a href="https://godotengine.org/">
   <img
-    align="center" alt="GDScript" height="30" width="30" title="Godot"
+    align="center" alt="Godot" height="30" width="30" title="Godot"
     src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original.svg"
   />
 </a>
