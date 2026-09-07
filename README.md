@@ -68,7 +68,7 @@
 <a href="https//zed.dev/">
   <picture>
     <source
-      srcset="https://raw.githubusercontent.com/ythmxz/ythxmz/main/zed-dark-icon.svg#gh-light-mode-only"
+      srcset="https://raw.githubusercontent.com/ythmxz/ythmxz/main/zed-dark-icon.svg#gh-light-mode-only"
       media="(prefers-color-scheme: light)"
     />
     <source
