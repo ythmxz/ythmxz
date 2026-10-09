@@ -76,7 +76,7 @@
     /></picture>
 </a> 
 
-#### VCS | Repositórios:
+#### SCVs | Repositórios:
 
 <a href="https://git-scm.com/"><img
     align="center" alt="Git" height="30" width="30" title="Git"
