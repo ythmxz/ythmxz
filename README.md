@@ -40,12 +40,6 @@
   </picture>
 </div>
 
-## Sobre
-
-- 🖥️| **Bacharelando em Ciência da Computação (UESC)**;
-- 💾| **Aluno Curso em Vídeo;**
-- 📖| **Estudando Desenvolvimento Desktop e Jogos;**
-
 ## Conhecimentos
 
 #### SOs:
