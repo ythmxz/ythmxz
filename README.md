@@ -48,7 +48,7 @@
 
 ## Conhecimentos
 
-#### OS:
+#### SOs:
 
 <a href="https://www.microsoft.com/windows/windows-11"><img
   align="center" alt="Windows 11" height="30" width="30" title="Windows 11"
@@ -61,10 +61,6 @@
 
 #### Editores | IDEs:
 
-<a href="https://code.visualstudio.com/"><img
-  align="center" alt="VS Code" height="30" width="30" title="VS Code"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-/></a>
 <a href="https//zed.dev/">
   <picture>
     <source
