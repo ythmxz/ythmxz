@@ -1,41 +1,43 @@
 ## Bem-vindo ao meu perfil!
 
+
+
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats-ythmxz.vercel.app/api?username=ythmxz&locale=pt-br&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&count_private=true&theme=github_dark"
+      srcset="https://github-stats-extended.vercel.app/api?username=ythmxz&locale=pt-br&custom_title=Minhas%20Estat%C3%ADsticas&hide_border=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-ythmxz.vercel.app/api?username=ythmxz&locale=pt-br&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&count_private=true&theme=github_light"
+      srcset="https://github-stats-extended.vercel.app/api?username=ythmxz&locale=pt-br&custom_title=Minhas%20Estat%C3%ADsticas&hide_border=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=light_github"
       media="(prefers-color-scheme: light)"
     />
     <source
-      srcset="https://github-readme-stats-ythmxz.vercel.app/api?username=ythmxz&locale=pt-br&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&count_private=true&theme=transparent"
+      srcset="https://github-stats-extended.vercel.app/api?username=ythmxz&locale=pt-br&custom_title=Minhas%20Estat%C3%ADsticas&hide_border=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent"
       media="(prefers-color-scheme: no-preference)"
     />
     <img
       width=380 height=160
-      src="https://github-readme-stats-ythmxz.vercel.app/api?username=ythmxz&locale=pt-br&show_icons=true&custom_title=Minhas+Estatísticas&hide_border=true&count_private=true"
+      src="https://github-stats-extended.vercel.app/api?username=ythmxz&locale=pt-br&custom_title=Minhas%20Estat%C3%ADsticas&hide_border=true&show_icons=true&include_all_commits=true&disable_animations=true"
     />
   </picture>
 
   <picture>
     <source
-      srcset="https://github-readme-stats-ythmxz.vercel.app/api/top-langs/?username=ythmxz&layout=compact&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true&theme=github_dark"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=ythmxz&locale=pt-br&custom_title=Linguagens%20Utilizadas&hide_border=true&layout=compact&langs_count=6&disable_animations=true&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-ythmxz.vercel.app/api/top-langs/?username=ythmxz&layout=compact&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true&theme=github_light"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=ythmxz&locale=pt-br&custom_title=Linguagens%20Utilizadas&hide_border=true&layout=compact&langs_count=6&disable_animations=true&theme=light_github"
       media="(prefers-color-scheme: light)"
     />
     <source
-      srcset="https://github-readme-stats-ythmxz.vercel.app/api/top-langs/?username=ythmxz&layout=compact&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true&theme=transparent"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=ythmxz&locale=pt-br&custom_title=Linguagens%20Utilizadas&hide_border=true&layout=compact&langs_count=6&disable_animations=true&theme=transparent"
       media="(prefers-color-scheme: no-preference)"
     />
     <img
       width=380 height=160
-      src="https://github-readme-stats-ythmxz.vercel.app/api/top-langs/?username=ythmxz&layout=compact&custom_title=Linguagens+Utilizadas&hide_border=true&count_private=true"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=ythmxz&locale=pt-br&custom_title=Linguagens%20Utilizadas&hide_border=true&layout=compact&langs_count=6&disable_animations=true"
     />
   </picture>
 </div>
@@ -44,13 +46,13 @@
 
 #### SOs:
 
-<a href="https://www.microsoft.com/windows/windows-11"><img
-  align="center" alt="Windows 11" height="30" width="30" title="Windows 11"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"
-    /></a>
 <a href="https://fedoraproject.org/"><img
   align="center" alt="Fedora 44" height="30" width="30" title="Fedora 44"
   src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fedora/fedora-original.svg"
+/></a>
+<a href="https://www.microsoft.com/windows/windows-11"><img
+  align="center" alt="Windows 11" height="30" width="30" title="Windows 11"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"
 /></a>
 
 #### Editores | IDEs:
