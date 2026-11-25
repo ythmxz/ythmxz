@@ -1,7 +1,5 @@
 ## Bem-vindo ao meu perfil!
 
-
-
 <div align="center">
   <picture>
     <source
@@ -43,17 +41,17 @@
 </div>
 
 ## Conhecimentos
-
+    
 #### SOs:
 
 <a href="https://fedoraproject.org/"><img
-  align="center" alt="Fedora 44" height="30" width="30" title="Fedora 44"
-  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fedora/fedora-original.svg"
-/></a>
+    align="center" alt="Fedora 44" height="30" width="30" title="Fedora 44"
+    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fedora/fedora-original.svg"
+  /></a>
 <a href="https://www.microsoft.com/windows/windows-11"><img
-  align="center" alt="Windows 11" height="30" width="30" title="Windows 11"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"
-/></a>
+    align="center" alt="Windows 11" height="30" width="30" title="Windows 11"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"
+  /></a>
 
 #### Editores | IDEs:
 
@@ -66,11 +64,13 @@
     <source
       srcset="https://raw.githubusercontent.com/ythmxz/ythmxz/main/zed-light-icon.svg#gh-dark-mode-only"
       media="(prefers-color-scheme: dark)"
-    /><img
+    />
+    <img
       align="center" alt="Zed" height="30" width="30" title="Zed"
       src="https://raw.githubusercontent.com/ythmxz/ythmxz/main/zed-light-icon.svg#gh-dark-mode-only"
-    /></picture>
-</a> 
+    />
+  </picture>
+</a>
 
 #### SCV | Repositórios:
 
@@ -87,15 +87,16 @@
     <source
       srcset="https://raw.githubusercontent.com/ythmxz/ythmxz/main/github-light-icon.svg#gh-dark-mode-only"
       media="(prefers-color-scheme: dark)"
-    /><img
+    />
+    <img
       align="center" alt="GitHub" height="30" width="30" title="GitHub"
       src="https://raw.githubusercontent.com/ythmxz/ythmxz/main/github-light-icon.svg#gh-dark-mode-only"
-    /></picture>
+    />
+  </picture>
 </a> 
 
 #### Linguagens:
 
-###### Back-end:
 <a href="https://www.c-language.org/"><img
     align="center" alt="C" height="30" width="30" title="C"
     src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg"
@@ -108,11 +109,7 @@
     align="center" alt="Python" height="30" width="30" title="Python"
     src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg"
   /></a>
-
-###### Game engine:
-<a href="https://godotengine.org/">
-  <img
+<a href="https://godotengine.org/"><img
     align="center" alt="Godot" height="30" width="30" title="Godot"
     src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original.svg"
-  />
-</a>
+  /></a>
